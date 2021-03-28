@@ -19,6 +19,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
+- [Styled-components](https://styled-components.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## 💻 Projeto
