@@ -27,6 +27,10 @@ Aplicação desenvolvida no curso de [**React e Typescript**](https://www.udemy.
 
 Não há banco de dados. Os dados são carregados de 2 arquivos que contém arrays simulando os repositórios de dados.
 
+<p align="center">
+  <img alt="Dashboard" src=".github/dashboard.png" width="100%">
+</p>
+
 ## 🔖 Layout
 
 Nos links abaixo você encontra o layout do projeto responsivo bem como as bibliotecas utilizadas no projeto. Lembrando que você precisa ter uma conta no [**Figma**](http://figma.com/) para acessá-lo.
