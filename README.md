@@ -45,6 +45,7 @@ Nos links abaixo você encontra o layout do projeto responsivo bem como as bibli
 - [x] Para os gráficos, foi utilizada a bibliteca [**Recharts**](http://recharts.org/en-US) que é opensource.
 - [x] Para efeito de número crescendo eu utilizei o [**React CountUp**](https://www.npmjs.com/package/react-countup).
 
+
 ## 🐾 Próximos passos
 
 - [ ] Possibilitar que o usuário possa cadastrar, editar e excluir suas próprias entradas e saídas; 😍
