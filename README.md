@@ -6,7 +6,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-passos">Próximos passos</a>&nbsp;&nbsp;&nbsp;
+  <a href="#-próximos-passos">Próximos passos</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
