@@ -27,11 +27,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Aplicação desenvolvida no curso de [**React e Typescript**](https://www.udemy.com/course/react-e-typescript/) da Udemy do instrutor [**Rodrigo Gonçalves Santana**](https://www.udemy.com/user/rodrigo-goncalves-santana/). 💜
 
-**Minha carteira** é uma aplicação totalmente responsiva, podendo ser acessada de qualquer disposivo móvel ou desktop, desenvolvida para o gerenciamento pessoal de entradas e saídas financeiras para que o usuário tenha uma vida com mais economia.
+ [**Minha Carteira**](https://minhacarteira-eltonsantos.netlify.app) é uma aplicação totalmente responsiva, podendo ser acessada de qualquer disposivo móvel ou desktop, desenvolvida para o gerenciamento pessoal de entradas e saídas financeiras para que o usuário tenha uma vida com mais economia.
 
 Não há banco de dados. Os dados são carregados de 2 arquivos que contém arrays simulando os repositórios de dados.
 
-Para acessar o [**Minha Carteira**](https://minhacarteira-eltonsantos.netlify.app) entre com o email **teste@teste.com** e a senha **123**
+Para acessar o [**Minha Carteira**](https://minhacarteira-eltonsantos.netlify.app) entre com o email **teste@teste.com** e a senha **123**.
 
 <p align="center">
   <img alt="Dashboard" src=".github/dashboard.png" width="100%">
