@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Minha Carteira" title="Minha Carteira" src=".github/logo.png" />
+    <img alt="Minha Carteira" title="Minha Carteira" src=".github/logo.png" width="200" />
 </h1>
 
 <p align="center">
