@@ -31,6 +31,8 @@ Aplicação desenvolvida no curso de [**React e Typescript**](https://www.udemy.
 
 Não há banco de dados. Os dados são carregados de 2 arquivos que contém arrays simulando os repositórios de dados.
 
+Para acessar o [**Minha Carteira**](https://minhacarteira-eltonsantos.netlify.app) entre com o email **teste@teste.com** e a senha **123**
+
 <p align="center">
   <img alt="Dashboard" src=".github/dashboard.png" width="100%">
 </p>
